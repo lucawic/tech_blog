@@ -1,0 +1,30 @@
+{
+  "name": "tech_blog",
+  "version": "1.0.0",
+  "description": "## User Story AS A developer who writes about tech I WANT a CMS-style blog site SO THAT I can publish articles, blog posts, and my thoughts and opinions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucawic/tech_blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucawic/tech_blog/issues"
+  },
+  "homepage": "https://github.com/lucawic/tech_blog#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
+    "express-session": "^1.17.2",
+    "mysql2": "^2.3.0",
+    "path": "^0.12.7",
+    "sequelize": "^6.6.5"
+  }
+}
