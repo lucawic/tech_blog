@@ -21,7 +21,7 @@ const helpers = require('./utils/helpers');
 const hbs = exphbs.create({ helpers });
 
 const app = express();
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3002;
 app.engine('handlebars',hbs.engine);
 app.set('view engine','handlebars');
 app.use(express.json());
