@@ -1,8 +1,4 @@
-const withAuth = (req, res, next) => {
-    if (!req.session.userId) {
-      res.redirect("/login");
-    } else {
-      next();
-    }
-  };
-  module.exports = withAuth;
+document.addEventListener('DOMContentLoaded', function() {
+  var elems = document.querySelectorAll('.sidenav');
+  // var instances = M.Sidenav.init(elems, options);
+});
