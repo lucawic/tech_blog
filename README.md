@@ -1,9 +1,42 @@
 # tech_blog
+# budget-tracker
+
+## Description
+A techBLOG built with MVC, Handlebars.js, Sequalize, and Express Session.
+
 
 ## User Story
 AS A developer who writes about tech
 I WANT a CMS-style blog site
 SO THAT I can publish articles, blog posts, and my thoughts and opinions
+
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [Demonstration](#demonstration)
+* [Tests](#tests)
+* [Questions](#questions)
+* [License](#license)
+
+## Usage
+For the most descriptive explanation of this project, please visit the link below to a demonstration of this code's functionality.
+
+In order to run this project locally, one has to first clone this repository. This application has a variety of node packages it is working with... The setup/install and launch process is as follows.
+
+1. npm i - this will install all dependencies. 
+2. npm start - now the application can be launched
+
+## Tests
+No testing Only Link. Enjoy
+
+
+## Demonstration
+https://drive.google.com/file/d/1yKqhg5cX3K07MdPdUIjvlMPvZeJjNxoJ/view
+
+## Questions
+If you have any questions on this project please contact me at
+lucaswick@email.arizona.edu
+or feel free to check out my [github](https://github.com/lucawic)
 
 ## Acceptance Criteria
 GIVEN a CMS-style blog site.  
@@ -40,3 +73,27 @@ WHEN I click on the logout option in the navigation.
 THEN I am signed out of the site.    
 WHEN I am idle on the site for more than a set time.    
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments.    
+
+## License
+MIT License
+
+Copyright (c) 2021 lucawic
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
