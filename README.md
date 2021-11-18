@@ -29,6 +29,7 @@ In order to run this project locally, one has to first clone this repository. Th
 ## Tests
 No testing Only Link. Enjoy
 
+![Screenshot](screenshot.png)
 
 ## Demonstration
 https://drive.google.com/file/d/1yKqhg5cX3K07MdPdUIjvlMPvZeJjNxoJ/view
